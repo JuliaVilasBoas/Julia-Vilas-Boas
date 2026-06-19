@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left"> Meu nome é Júlia e sou estudante de Ciência da computação </p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left"> Sobre mim </h2>
 
 ###
 
-<p align="left">📚 I'm currently learning : Logica de programação, estrutura de dados, linguagem java/ java script,  html e css.<br>🎯 Goals: começar a fazer sites elaborados e começar ja meu primeiro projeto em java ou java script.<br>🎲 Fun fact: Tudo sobre dados e cibersegurança.</p>
+<p align="left">📚 Estou aprendendo atualmente : Logica de programação, estrutura de dados, linguagem java/ java script,  html e css.<br>🎯 Objetivos : começar a fazer sites elaborados e começar ja meu primeiro projeto em java ou java script.<br>🎲 Curiosidades: Tudo sobre dados e cibersegurança.</p>
 
 ###
 
